@@ -1,4 +1,4 @@
-# Wazuh AWS Terraform Project
+# Detection as Code & Wazuh AWS Terraform Project
 
 This Terraform project deploys a single Ubuntu EC2 instance with Wazuh installed. It creates:
 - A key pair for SSH access
